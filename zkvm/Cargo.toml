@@ -18,7 +18,7 @@ rand = "0.7"
 subtle = "2"
 curve25519-dalek = { version = "3", features = ["serde"] }
 serde = { version = "1.0", features=["derive"] }
-subtle-encoding = "0.3"
+subtle-encoding = "0.5"
 hex = "^0.3"
 
 [dependencies.readerwriter]
